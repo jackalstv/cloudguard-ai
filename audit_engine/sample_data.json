@@ -1,0 +1,6 @@
+{
+  "users": [
+    {"name": "Alice", "mfa": false, "public_share": true},
+    {"name": "Bob", "mfa": true, "public_share": false}
+  ]
+}
